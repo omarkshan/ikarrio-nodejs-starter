@@ -1,2 +1,2 @@
-# ikarrio-nodejs-starter
+# Ikarrio Nodejs Starter
 Node.js starter project architecture
